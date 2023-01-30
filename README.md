@@ -21,6 +21,6 @@ The program outputs a video with the occluded objects marked with bounding boxes
 
 ## Notes
 
-The project uses a combination of object detection and object tracking algorithms to achieve its results. The object detection is done using the Haar cascade classifier, while the object tracking is done using the CAMShift algorithm.
+The project uses a combination of object detection and object tracking algorithms to achieve its results. The object detection is done using YOLOv3 classifier, while the object tracking is done using the centroid algorithm.
 
 This is just a basic implementation and can be improved by using more advanced object detection and tracking algorithms for better results.
