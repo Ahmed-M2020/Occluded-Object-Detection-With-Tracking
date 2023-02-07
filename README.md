@@ -1,4 +1,4 @@
-# occluded-object-detection-with-tracking
+# Occluded-object-detection-with-tracking
 
 A project from a computer vision course that focuses on detecting and tracking occluded objects in video sequences.
 
